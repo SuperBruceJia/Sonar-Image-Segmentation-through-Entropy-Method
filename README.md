@@ -3,15 +3,6 @@
 Author: Shuyue Jia and Ziyu Huo @ Human Sensor Laboratory, School of Automation Engineering, Northeast Electric Power University, Jilin, China.
 
 Date: June of 2018
-
----
-
-<div>
-  <div style="text-align:center">
-      <img width=99%device-width src="https://github.com/SuperBruceJia/SuperBruceJia.github.io/raw/master/imgs/Picture3.png" alt="Project3">
-</div>
-  
----
   
 # Read the Original Shipwrecked Sonar Image
 
