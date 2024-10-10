@@ -3,7 +3,10 @@
 Author: Shuyue Jia and Ziyu Huo @ Human Sensor Laboratory, School of Automation Engineering, Northeast Electric Power University, Jilin, China.
 
 Date: June of 2018
-  
+
+# 🎉 News
+[2020] ![](figures/news.gif) A [𝗣𝗮𝘁𝗲𝗻𝘁](https://patents.google.com/patent/CN112164079A/en) is published based on this project and repo codes. 
+
 # Read the Original Shipwrecked Sonar Image
 
 ![](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method/raw/master/sonar_original.jpg)
